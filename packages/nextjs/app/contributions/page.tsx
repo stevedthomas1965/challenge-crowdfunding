@@ -6,6 +6,7 @@ import { formatEther } from "viem";
 import { useScaffoldEventHistory } from "~~/hooks/scaffold-eth";
 
 const ContributionsPage: NextPage = () => {
+  // eslint-disable-next-line @typescript-eslint/no-deprecated
   const { data: contributionEvents, isLoading } = useScaffoldEventHistory({
     contractName: "CrowdFund",
     eventName: "Contribution",
