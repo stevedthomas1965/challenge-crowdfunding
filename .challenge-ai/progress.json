@@ -1,0 +1,31 @@
+{
+  "challenge": "Crowdfunding App",
+  "framework": "foundry",
+  "version": "1.0",
+  "startedAt": "2026-09-25T19:19:39Z",
+  "currentCheckpoint": null,
+  "currentQuestion": 0,
+  "checkpoints": {
+    "contributing": {
+      "status": "completed",
+      "completedAt": "2026-09-25T19:44:00Z",
+      "method": "coded"
+    },
+    "withdrawing": {
+      "status": "completed",
+      "completedAt": "2026-09-28T17:49:02Z",
+      "method": "coded"
+    },
+    "state-machine": {
+      "status": "completed",
+      "completedAt": "2026-09-28T19:24:38Z",
+      "method": "coded"
+    },
+    "receive-function": {
+      "status": "completed",
+      "completedAt": "2026-09-28T19:34:00Z",
+      "method": "coded"
+    }
+  },
+  "completedAt": "2026-09-28T19:34:00Z"
+}
